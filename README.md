@@ -1,8 +1,8 @@
 # Skeleton-aware Sampling
 
-It is the pytorch implementation of the paper:  
-[Learnable Skeleton-Aware 3D Point Cloud Sampling](https://openaccess.thecvf.com/content/CVPR2023/papers/Wen_Learnable_Skeleton-Aware_3D_Point_Cloud_Sampling_CVPR_2023_paper.pdf)  
-Cheng Wen Baosheng Yu Dacheng Tao
+It is the official PyTorch implementation of the paper:  
+### [Learnable Skeleton-Aware 3D Point Cloud Sampling](https://openaccess.thecvf.com/content/CVPR2023/papers/Wen_Learnable_Skeleton-Aware_3D_Point_Cloud_Sampling_CVPR_2023_paper.pdf)  
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Cheng Wen, Baosheng Yu, Dacheng Tao
 
 ## Enviroments
 
