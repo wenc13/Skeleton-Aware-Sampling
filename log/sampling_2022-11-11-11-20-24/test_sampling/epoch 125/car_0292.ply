@@ -1,0 +1,13 @@
+ply
+format binary_little_endian 1.0
+element vertex 128
+property float x
+property float y
+property float z
+end_header
+H{:‹SW>BM>WmE=Ê,=t^l? 
+˜>ŸÈD¾Í®½Ð†¾Æ·M=ÔpQ?ø„¼Õ=>ñê«>7³y¾Íæ9¾ÌÑe?ç©³¾S÷¹=+K½[P…¾^>¼;ã½‡¥‰¾x>K ?ÒÁf¾èöŒ>²b=¾¬·=P±>jÀ•=¥£>’>ð<ê>¨¿>1zy½¿³½¾-%q=?f;?ý„T¾‡²Š>ð¦¾}Á¾8³¾'i(¿K	°¾Nâ½Á!¾¼¼Ì>@Ì+>Yý
+>7³y¾Íæ9¾ÌÑe?ý8®¾°:>ÝYñ¾0Ù=¾Žœ->T­>5úæ<ƒƒ;¾ö0?§ìG¾4µ’>X	l»õŒO>Øæ‘>Ü¾*-ª>%ü>i?u½7³y¾Íæ9¾ÌÑe?ÈnZ>¼3¾ò¬;¾ü|ž>aµ>y}¿äàÂ¾á¬í;º”??Š›¼¡å—>p–»ô«•>õ)B¾#>†¾ø ¾ÎL˜>G$Ï½­>,">¾Ðƒ3?€¼ƒ>]“j=µN?l Y>:•>ÆŽ¾B>ëŽ[>¯'.>àaŽ¾Eà<n‘¿¯{>ÒÂ½*&?¯¯¾\Øî=6#¾ä3~>
+fF>Ÿä€>#ôO>z©4¾A§¼¾O¯>Ééï=ôŽ¾>‹~]½EÃ4¾îç4><¸=¼3¾ö³½vÕ›¾á0‡<¨»S?ƒÌ=ïµ™>k	¾àaŽ¾Eà<n‘¿éü>h}>¸2ò>Þ´I>·_P>î½€>¤NÍ¾½J¾Hn?¡×q=ãu4¾/WÁ=¾¬·=P±>jÀ•=á	¹>•¥2¾ sZ=	2’>RI_>Ô¥ÿ½`S‚>ªá6>ê#J¿H{:‹SW>BM>¨†=¹ƒ}>ìþk¿“š¾H>6#¡=$¯G=LB4¾ÊÅ=‹~]½EÃ4¾îç4>`dk¾7re½F’Q¿5B	½¼3¾_æÎ½ýµ>Áø½õ™E?MŒ>gk!>ÄCž>ò•¶¾]2/½Öã½Žö¬¾/pÙ½‡ä9¿ˆA>¼3¾bAF¾&¾¼3¾R·‚¾ƒ‹>1ó
+>šy?^Ê>“I¢=‹r	?ý¯•¾;_(>¬Ñ¾¢Hj¾Ú¾&’G¿<¸=¼3¾ö³½G\Ÿ¾$?¾TuP?ŠÂ½e+>6s½>VuÍ¾¯‘‘ºŠý>7³y¾Íæ9¾ÌÑe?Œ'$¾¤½s>äíU¿¯¯¾\Øî=6#¾užÁ¾e,6¾{²Ã>¢Hj¾Ú¾&’G¿øÕ%>z©4¾ÂÉ
+>õŒO>Øæ‘>Ü¾2±Ä¾Ë.¾—!¿7™’>î,># l¿ÍÃ”>«¼X>´Šé:Ý¥³>‡áŽ=Àh¼ùê¼>1F6¾–ðk¾<÷=ö=—>ÁEp¾Uæ<2`x>ë û¾ds-»*HZ½Ve?š>)ër=gÄC¿€ò¾$‡">õOZ¿(Rˆ>pþ½U¢L¿ûÂC>Ì·p>‘›ë¾Ÿ¡¼¾ .¹=0v,?WmE=Ê,=t^l?Öµd>ßk~>ÐYi¿YÇ¾îÖ½µŸÌ¾K·r>úM:¾}øe?"Óˆ>¿³„>~E¼òaB¾xho>úC>Ý¡>ib_¾œ´!?}jï;Šs>wæ[>Kng>x¹¼4{á¾`G=,-•>Ñ9=c€­>†úí=orÏ=M‹¾õÜK;”ù&¿ë«h¾ªv“>›y½'y·==™>w½”T¼	*¾‘µ¿ò•¶¾]2/½Öã½ô«•>QøB¾7Ë>~0:>³ü7¾Tj?{çc>y1`>-:R>ä7	½Üö4¾.t>÷Œ>c.>H¦¡¾¨2¸¾¹Ô<€Ö=n $>G¾Xc?ŠÀƒ¾ç¼Œ\Ä¾?””¾Œß€>¯çi¿äàÂ¾á¬í;º”??ŒÃ>mê >/C>Vÿ->yØs=¶†U¿¤NÍ¾½J¾Hn?<÷=ö=—>ÁEp¾×Ø½\4¾˜ø/=ýµ>Áø½õ™E?
