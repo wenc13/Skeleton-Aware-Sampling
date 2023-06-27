@@ -5,6 +5,16 @@ It is the official PyTorch implementation of the paper:
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Cheng Wen, Baosheng Yu, Dacheng Tao
 
 ## Enviroments
+python 3.8  
+pytorch 1.10  
+torchvision  
+numpy  
+tqdm  
+h5py  
+plyfile  
+matplotlib  
+scipy  
+networkx  
 
 ## Dataset
 
